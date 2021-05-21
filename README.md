@@ -1,2 +1,2 @@
 # assembly_sort
-3 implementations of Quicksort in MIPS Assembly
+3 different implementations of Quicksort in MIPS Assembly
