@@ -3,6 +3,6 @@ While taking CPSC 52 (Computer Architecture), I got interested in writing optimi
 ## standard_quicksort
 My first implementation of a Quicksort algorithm, created individually for a lab assignment.
 ## improved_quicksort
-standard_quicksort with tweaks, such as using pointers within loops and performing swap() in-line. I created this and improved_mid_quicksort with Michelle Zhuang '23 for a final project.
+standard_quicksort with tweaks, such as using pointers within loops and performing swap() in-line.
 ## improved_mid_quicksort
-Based on the Hoare partition scheme, this works faster on almost-sorted lists.
+Based on the Hoare partition scheme, this works faster on almost-sorted lists. I created this and improved_quicksort with Michelle Zhuang '23 for a final project.
