@@ -1,4 +1,4 @@
-While taking CPSC 52 (Computer Architecture), I got interested in writing optimized low-level code. This repo contains 3 attempts at writing optimized Quicksort code in MIPS Assembly.
+While taking CPSC 52 (Computer Architecture), I got interested in writing optimized low-level code. This repo contains 3 attempts at writing optimized Quicksort code in MIPS Assembly (and debugging it using MARS).
 
 ## standard_quicksort
 My first implementation of a Quicksort algorithm, created individually for a lab assignment.
